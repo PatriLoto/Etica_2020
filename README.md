@@ -9,6 +9,6 @@ En este práctico, elaboramos un Data Statements para el datasetet de la mentor�
 
 
 #### **Práctico 2: Mitigar Sesgos en Modelos**
-Tutorial práctico [notebook] basado en el tutorial Exploring Gender Bias in Word Embeddings (y su notebook) que aplica las herramientas de Responsibly, creado por Shlomi Hod, para mitigar sesgo de género en word embeddings.
+Tutorial práctico basado en el tutorial Exploring Gender Bias in Word Embeddings (y su notebook) que aplica las herramientas de Responsibly, creado por Shlomi Hod, para mitigar sesgo de género en word embeddings.
 
 Para este práctico elegimos realizar la opción 2, es decir, aplicar mitigación de sesgos sobre word embeddings en inglés para el caso de blanco / negro (whites / blacks). 
