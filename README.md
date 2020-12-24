@@ -4,7 +4,7 @@
 
 #### **Práctico 1: Data Statements**
 Metodología de documentación de un dataset: contenidos, objetivos y proceso de obtención de datos basado en Toward Mitigating System Bias and Enabling Better Science y Datasheets for Datasets. 
-En este caso, realizamos el data statements sobre la mentoría de Ciencia de datos aplicada al diálogo entre docentes y alumnos.
+En este caso, realizamos el data statements sobre el datasetet de la mentoría de Ciencia de datos aplicada al diálogo entre docentes y alumnos.
 
 
 #### **Práctico 2: Mitigar Sesgos en Modelos**
